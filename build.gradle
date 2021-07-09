@@ -33,5 +33,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = 'com.phodu.weekend.App'
+    mainClassName = 'com.phodu.weekend.Weekend'
 }
