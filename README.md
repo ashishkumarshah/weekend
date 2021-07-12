@@ -1,5 +1,9 @@
 # Weekend
-Weekend is a convenient wrapper over [Greenmail](https://github.com/greenmail-mail-test/greenmail). It's functionality is read eml files from a folder and load them into an inbox provided by Greenmail. The inbox can then be accessed by your protocol of choice.
+Weekend is a convenient wrapper over [Greenmail](https://github.com/greenmail-mail-test/greenmail). 
+
+## What does it do?
+1. It's functionality is read eml files from a folder and load them into an inbox provided by Greenmail. The inbox can then be accessed by your protocol of choice.
+2. It is particularly helpful, when you want your code to process a particular email from an inbox. You can dump the eml (email) into weekend's home folder and have your code talk to the Inbox which was started by Greenmail.
 
 ## Quick Start
 1. Download the jar from the releases and run it from terminal.
